@@ -51,7 +51,7 @@ params:
   notice: "#24478f"
   incidentHistoryFormat: yearly
   disableIncidentHistory: false
-  ok: "#33FF33"
+  ok: "#33CC33"
   categories: []
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
