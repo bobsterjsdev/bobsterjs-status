@@ -35,7 +35,7 @@ params:
   useRelativeTime: true
   disableDarkMode: false
   shortDateFormat: 15:04 UTC — Jan 2
-  down: "#e60000"
+  down: "#CC0033"
   systems: []
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
@@ -47,8 +47,8 @@ params:
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: false
-  disrupted: "#cc4400"
-  notice: "#24478f"
+  disrupted: "#e8611e"
+  notice: "#1eb2e8"
   incidentHistoryFormat: yearly
   disableIncidentHistory: false
   ok: "#33CC33"
