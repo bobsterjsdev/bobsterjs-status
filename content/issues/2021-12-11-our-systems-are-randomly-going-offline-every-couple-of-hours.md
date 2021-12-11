@@ -8,11 +8,10 @@ informational: false
 resolvedWhen: ""
 affected:
   - BobsterJS
-  - BobsterJS-Weather
-  - BobsterJS-Clock
-  - BobsterJS-Stopwatch
-  - BobsterJS-Social
-  - Digital-Development
+  - Weather
+  - Clock
+  - Stopwatch
+  - Social
 severity: disrupted
 ---
 *Investigating* - The issue is being investigated. We believe these are happening across all of our systems.
