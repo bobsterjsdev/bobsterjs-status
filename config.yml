@@ -39,6 +39,20 @@ params:
   systems:
     - name: BobsterJS
       category: Websites
+    - name: BobsterJS Weather
+      category: Websites
+    - name: BobsterJS Clock
+      category: Websites
+    - name: BobsterJS Stopwatch
+      category: Websites
+    - name: BobsterJS Social
+      category: Websites
+    - name: Digital Development
+      category: Websites
+    - name: RE1
+      category: Data Stores
+    - name: NE1
+      category: Data Stores
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
@@ -58,6 +72,7 @@ params:
     - name: Websites
       closed: false
       untitled: false
+    - name: Data Stores
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
