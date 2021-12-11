@@ -14,4 +14,8 @@ affected:
   - Social
 severity: disrupted
 ---
+The issue we are investigating has been happening for the past few days & has been monitored by our SOC and have thought it was necessary to create an incident
+
+
+
 *Investigating* - The issue is being investigated. We believe these are happening across all of our systems.
