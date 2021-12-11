@@ -6,6 +6,9 @@ resolved: false
 draft: false
 informational: false
 resolvedWhen: ""
+affected:
+  - BobsterJS
+  - BobsterJSWeather
 severity: disrupted
 ---
 *Investigating* - The issue is being investigated. We believe these are happening across all of our systems.
