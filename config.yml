@@ -51,6 +51,10 @@ params:
       category: Data Stores
     - name: NE1
       category: Data Stores
+    - name: Website Monitoring
+      category: Internal Systems
+    - name: Employee Access
+      category: Internal Systems
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
