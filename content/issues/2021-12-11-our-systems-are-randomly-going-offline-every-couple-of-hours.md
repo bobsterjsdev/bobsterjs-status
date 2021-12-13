@@ -2,7 +2,7 @@
 section: issue
 title: Our systems are randomly going offline every couple of hours
 date: 2021-12-11T22:00:34.862Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 resolvedWhen: ""
