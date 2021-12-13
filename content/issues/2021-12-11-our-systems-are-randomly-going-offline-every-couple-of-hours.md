@@ -19,3 +19,5 @@ The issue we are investigating has been happening for the past few days & has be
 
 
 *Investigating* - The issue is being investigated. We believe these are happening across all of our systems.
+
+*Conclusion* - The issue is still being monitored by our SOC but they believe our systems are stable enough to conclude this issue
