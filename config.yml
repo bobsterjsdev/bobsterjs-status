@@ -80,3 +80,6 @@ params:
     any interruptions, a note will be posted here.
   enableCustomHTML: true
   useLargeHeaderDesign: true
+  customTabs:
+ - name: Monitoring
+   link: https://example.com/monitoring.php
